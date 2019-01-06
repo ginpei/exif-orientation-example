@@ -4,7 +4,7 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "@ginpei/exif-orientation": "0.0.2"
+    "@ginpei/exif-orientation": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
